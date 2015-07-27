@@ -1091,6 +1091,9 @@ nav a:first-child {
   text-transform: capitalize;
 }
 
+.smallfont{
+  font-size: 50%;
+}
 /* Clearfix for the .slides element */
 .slides:after {
   content: ".";
