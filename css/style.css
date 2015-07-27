@@ -148,6 +148,11 @@ h4 {
   background-color: #56af79;
 }
 
+.pric{
+  font-size: 30px;
+  font-weight: bold;
+}
+
 .button-buy {
   position: relative;
   height: 51px;
@@ -941,7 +946,7 @@ nav a:first-child {
   transition: all 0.3s ease;
 }
 .price-item li {
-  padding: 10px 15px;
+  padding: 5px 15px;
   font-size: 16px;
   line-height: 30px;
 }
@@ -1092,7 +1097,12 @@ nav a:first-child {
 }
 
 .smallfont{
-  font-size: 50%;
+  font-size: 1px;
+  line-height: 0px;
+}
+
+.smalldiv{
+  padding: 0px 0px;
 }
 /* Clearfix for the .slides element */
 .slides:after {
