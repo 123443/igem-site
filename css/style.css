@@ -861,8 +861,17 @@ nav a:first-child {
   border-left: 16px solid #7d7d7d;
 }
 
+.sizhou{
+
+}
+
+.xiabiao{
+  font-size: 25px;
+  font-family: "Raleway";
+}
+
 .gallery-list {
-  margin-top: 50px;
+  margin-top: 0px;
 }
 
 /* Fancybox icons override */
@@ -923,8 +932,24 @@ nav a:first-child {
 
 /* Pricing section
 ------------------------------- */
+.zuobian{
+  float: left;
+  width:31%;
+  margin:0px 10px;
+}
+
+.youbian{
+  float: right;
+  width: 100px;
+  height: 600px;
+}
 .pricing-section {
-  padding: 120px 0 60px;
+  padding: 60px 0 60px;
+}
+
+.pictrue{
+  float:left;
+  width:80%;
 }
 
 .price-item {
@@ -1361,6 +1386,7 @@ nav a:first-child {
     padding-left: 75px;
     padding-right: 75px;
   }
+
 
   .team-section .row-fluid .span3 {
     width: 50%;
